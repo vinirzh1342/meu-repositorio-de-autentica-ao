@@ -1,2 +1,2 @@
-# meu-repositorio-de-autentica-ao
+# meu-repositorio-de-autenticação
 para aprendizado 
